@@ -1,7 +1,7 @@
 import './globals.css'
 import { Nunito } from 'next/font/google'
-import Navbar from './components/navbar/Navbar'
-import ClienOnly from './components/ClienOnly'
+import Navbar from './components/navbar'
+import ClienOnly from './components/ClientOnly'
 
 export const metadata = {
     title: 'Clone AirBnb',
